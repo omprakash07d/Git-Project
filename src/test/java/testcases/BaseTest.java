@@ -52,11 +52,17 @@ public class BaseTest {
 	}
 
 
-public static void lead()
+public void test_method()
 {
-System.out.println("Lead update");
+System.out.println("Om");
+
 }
-	
-	
+
+
+public void tester1 ()
+{
+
+	System.out.println("tester1");
+}	
 
 }
