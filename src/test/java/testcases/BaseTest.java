@@ -50,7 +50,18 @@ public class BaseTest {
 		 db2 = new DashBoardPage(driver);
 		 
 	}
-	
-	
+
+public void test_method()
+{
+System.out.println("Om");
+
+}
+
+
+public void tester1 ()
+{
+
+	System.out.println("tester1");
+}	
 
 }
