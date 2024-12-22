@@ -50,6 +50,12 @@ public class BaseTest {
 		 db2 = new DashBoardPage(driver);
 		 
 	}
+
+
+public static void lead()
+{
+System.out.println("Lead update");
+}
 	
 	
 
